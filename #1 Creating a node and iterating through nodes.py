@@ -1,7 +1,7 @@
 class Node:
-    def __init__(self):
+    def __init__(self,data):
         self.data = data
-        selft.next = ""
+        self.next = ""
 
 class LinckedList:
     def __init__(self):
